@@ -44,3 +44,7 @@ main {
   height: 10vh;
   background-color: rgb(255, 69, 212);
 }
+
+.red {
+  color: red;
+}
