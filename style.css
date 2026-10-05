@@ -20,7 +20,7 @@ main {
 .header {
   display: flex;
   height: 20vh;
-  background-color: green;
+  background-color: rgb(92, 0, 128);
 }
 
 .container {
@@ -29,21 +29,22 @@ main {
 }
 
 .sidebar {
-  display: flex;
   height: inherit;
   flex: 0 0 20%;
-  background-color: seagreen;
+  background-color: rgb(126, 69, 211);
 }
 
 .main-content {
-  display: flex;
   height: inherit;
-  flex: 0 0 80%;
-  background-color: yellowgreen;
+  width: 100%;
+  background-color: rgb(179, 93, 249);
 }
 
 .footer {
-  display: flex;
   height: 10vh;
-  background-color: olive;
+  background-color: rgb(255, 69, 212);
+}
+
+.red {
+  color: red;
 }
