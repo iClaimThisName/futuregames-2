@@ -32,14 +32,14 @@ main {
   display: flex;
   height: inherit;
   flex: 0 0 20%;
-  background-color: seagreen;
+  background-color: rgb(97, 192, 139);
 }
 
 .main-content {
   display: flex;
   height: inherit;
   flex: 0 0 80%;
-  background-color: yellowgreen;
+  background-color: rgb(165, 76, 16);
 }
 
 .footer {
