@@ -17,7 +17,7 @@ main {
   margin: auto;
 }
 
-.header {
+.header__title {
   display: flex;
   height: 20vh;
   background-color: rgb(92, 0, 128);
